@@ -1,0 +1,3 @@
+- 👋 Merhabalar Adım Melih
+- 👀 Kodlamayı aşırı seven şuan öğrenme aşamasında olan ama hep üşengeçliğine yeni düşen birisiyim
+- 🌱 Umarım bir gün web developer olacağım
